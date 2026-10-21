@@ -1,0 +1,39 @@
+{
+  "name": "doron-startup-co-founder",
+  "version": "1.0.0",
+  "description": "A Claude Code skill that acts as your startup co-founder: it asks one question at a time and builds a Startup Plan covering problem, ICP, v0/v1/v10, TAM/SAM/SOM, build plan, GTM, pricing and fundraising.",
+  "bin": {
+    "doron-startup-co-founder": "bin/install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "references",
+    "bin"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "claude-skill",
+    "agent-skill",
+    "startup",
+    "co-founder",
+    "icp",
+    "tam",
+    "go-to-market",
+    "pricing",
+    "fundraising"
+  ],
+  "author": "Doron Segal (https://github.com/doron2402)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doron2402/doron-startup-co-founder.git"
+  },
+  "homepage": "https://github.com/doron2402/doron-startup-co-founder#readme",
+  "bugs": {
+    "url": "https://github.com/doron2402/doron-startup-co-founder/issues"
+  },
+  "engines": {
+    "node": ">=16.7"
+  }
+}
